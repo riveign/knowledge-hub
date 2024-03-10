@@ -8,8 +8,14 @@ This is a public resource with links, ideas, products and services that I have f
 
 ## Smart Contract Development
 
-### Good Practices
+### Best Practices
 
+- https://consensys.github.io/smart-contract-best-practices/ - Consensys Smart Contract Best Practices
 - https://scsfg.io/ - Smart Contract Security Best Practices
+- https://medium.com/@solidity101/smart-contract-security-tools-best-practices-and-expert-insights-%EF%B8%8F-84aa8db16cbc
 
 ### Tools
+
+#### Security
+
+- https://mythx.io - MythX is a security analysis API for Ethereum smart contracts. It performs multiple types of analysis, including input fuzzing, static analysis, and symbolic execution.
