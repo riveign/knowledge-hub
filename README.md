@@ -20,3 +20,10 @@ This is a public resource with links, ideas, products and services that I have f
 #### Security
 
 - https://mythx.io - MythX is a security analysis API for Ethereum smart contracts. It performs multiple types of analysis, including input fuzzing, static analysis, and symbolic execution.
+
+## Data Storage
+
+### IPFS
+
+- https://ipfs.io - IPFS is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system.
+- https://www.pinata.cloud/ - Pinata is a pinning service for IPFS. It allows you to pin your content to their nodes so that it is always available.
