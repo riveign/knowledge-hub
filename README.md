@@ -21,6 +21,8 @@ This is a public resource with links, ideas, products and services that I have f
 
 - https://mythx.io - MythX is a security analysis API for Ethereum smart contracts. It performs multiple types of analysis, including input fuzzing, static analysis, and symbolic execution.
 
+- https://defender.openzeppelin.com/ - OpenZeppelin Defender is a platform to manage the security of your smart contracts. It provides a set of tools to automate the security operations of your smart contracts.
+
 ## Data Storage
 
 ### IPFS
