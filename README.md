@@ -6,6 +6,12 @@
 
 This is a public resource with links, ideas, products and services that I have found useful in my journey to learn and grow as a product engineer. I hope you find it useful too.
 
+## Development
+
+### Software Development Insights
+
+- https://www.swarmia.com/ - Swarmia is a platform that provides insights into software development. It helps you understand how your team is working and how you can improve your processes.
+
 ## Smart Contract Development
 
 ### Best Practices
