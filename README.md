@@ -27,6 +27,10 @@ This is a public resource with links, ideas, products and services that I have f
 
 ### Tools
 
+#### Data Analysis
+
+- https://github.com/ankane/prophet-ruby - Prophet is a Ruby library for time series forecasting. It is based on Facebook's Prophet library.
+
 #### Development
 
 - https://hardhat.org/ - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. It helps developers manage and automate the recurring tasks that are inherent to the process of building smart contracts and dApps.
