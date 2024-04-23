@@ -8,6 +8,10 @@ This is a public resource with links, ideas, products and services that I have f
 
 ## Development
 
+### Frontend Components
+
+- https://hexaflexa.com - HexaFlexa Timegrid
+
 ### Software Development Insights
 
 - https://www.swarmia.com/ - Swarmia is a platform that provides insights into software development. It helps you understand how your team is working and how you can improve your processes.
