@@ -49,6 +49,10 @@ This is a public resource with links, ideas, products and services that I have f
 
 - https://extractor.live/ - Extractor is a tool that allows the user to monitor and extract data from smart contracts. It provides a simple interface to monitor and extract data from smart contracts.
 
+#### Video Editing
+
+- https://riverside.fm/ - Riverside.fm is a platform that allows you to record high-quality video and audio interviews. It provides a simple interface to record, edit and share your interviews.
+
 
 ## IPFS
 
